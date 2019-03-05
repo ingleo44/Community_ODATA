@@ -1,0 +1,14 @@
+C:\Users\leonardo.sanchez.ENDAVA\source\repos\community\community_AdventureWorks\Infraestructure\bin\Debug\netcoreapp2.2\Infraestructure.deps.json
+C:\Users\leonardo.sanchez.ENDAVA\source\repos\community\community_AdventureWorks\Infraestructure\bin\Debug\netcoreapp2.2\Infraestructure.runtimeconfig.json
+C:\Users\leonardo.sanchez.ENDAVA\source\repos\community\community_AdventureWorks\Infraestructure\bin\Debug\netcoreapp2.2\Infraestructure.runtimeconfig.dev.json
+C:\Users\leonardo.sanchez.ENDAVA\source\repos\community\community_AdventureWorks\Infraestructure\bin\Debug\netcoreapp2.2\Infraestructure.dll
+C:\Users\leonardo.sanchez.ENDAVA\source\repos\community\community_AdventureWorks\Infraestructure\bin\Debug\netcoreapp2.2\Infraestructure.pdb
+C:\Users\leonardo.sanchez.ENDAVA\source\repos\community\community_AdventureWorks\Infraestructure\bin\Debug\netcoreapp2.2\Adventureworks.Entities.dll
+C:\Users\leonardo.sanchez.ENDAVA\source\repos\community\community_AdventureWorks\Infraestructure\bin\Debug\netcoreapp2.2\Adventureworks.Entities.pdb
+C:\Users\leonardo.sanchez.ENDAVA\source\repos\community\community_AdventureWorks\Infraestructure\obj\Debug\netcoreapp2.2\Infraestructure.csprojAssemblyReference.cache
+C:\Users\leonardo.sanchez.ENDAVA\source\repos\community\community_AdventureWorks\Infraestructure\obj\Debug\netcoreapp2.2\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.sanchez.ENDAVA\source\repos\community\community_AdventureWorks\Infraestructure\obj\Debug\netcoreapp2.2\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\leonardo.sanchez.ENDAVA\source\repos\community\community_AdventureWorks\Infraestructure\obj\Debug\netcoreapp2.2\Infraestructure.AssemblyInfo.cs
+C:\Users\leonardo.sanchez.ENDAVA\source\repos\community\community_AdventureWorks\Infraestructure\obj\Debug\netcoreapp2.2\Infraestructure.csproj.CopyComplete
+C:\Users\leonardo.sanchez.ENDAVA\source\repos\community\community_AdventureWorks\Infraestructure\obj\Debug\netcoreapp2.2\Infraestructure.dll
+C:\Users\leonardo.sanchez.ENDAVA\source\repos\community\community_AdventureWorks\Infraestructure\obj\Debug\netcoreapp2.2\Infraestructure.pdb

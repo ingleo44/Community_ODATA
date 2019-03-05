@@ -1,0 +1,9 @@
+C:\Users\leonardo.sanchez.ENDAVA\source\repos\community\community_AdventureWorks\Core\bin\Debug\netcoreapp2.2\Core.deps.json
+C:\Users\leonardo.sanchez.ENDAVA\source\repos\community\community_AdventureWorks\Core\bin\Debug\netcoreapp2.2\Core.dll
+C:\Users\leonardo.sanchez.ENDAVA\source\repos\community\community_AdventureWorks\Core\bin\Debug\netcoreapp2.2\Core.pdb
+C:\Users\leonardo.sanchez.ENDAVA\source\repos\community\community_AdventureWorks\Core\obj\Debug\netcoreapp2.2\Core.csprojAssemblyReference.cache
+C:\Users\leonardo.sanchez.ENDAVA\source\repos\community\community_AdventureWorks\Core\obj\Debug\netcoreapp2.2\Core.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.sanchez.ENDAVA\source\repos\community\community_AdventureWorks\Core\obj\Debug\netcoreapp2.2\Core.AssemblyInfoInputs.cache
+C:\Users\leonardo.sanchez.ENDAVA\source\repos\community\community_AdventureWorks\Core\obj\Debug\netcoreapp2.2\Core.AssemblyInfo.cs
+C:\Users\leonardo.sanchez.ENDAVA\source\repos\community\community_AdventureWorks\Core\obj\Debug\netcoreapp2.2\Core.dll
+C:\Users\leonardo.sanchez.ENDAVA\source\repos\community\community_AdventureWorks\Core\obj\Debug\netcoreapp2.2\Core.pdb

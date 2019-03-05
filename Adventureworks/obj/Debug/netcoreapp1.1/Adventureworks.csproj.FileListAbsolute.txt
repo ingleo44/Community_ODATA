@@ -1,0 +1,11 @@
+/Users/Leonardo/Projects/Adventureworks/Adventureworks/bin/Debug/netcoreapp1.1/Adventureworks.deps.json
+/Users/Leonardo/Projects/Adventureworks/Adventureworks/bin/Debug/netcoreapp1.1/Adventureworks.runtimeconfig.json
+/Users/Leonardo/Projects/Adventureworks/Adventureworks/bin/Debug/netcoreapp1.1/Adventureworks.runtimeconfig.dev.json
+/Users/Leonardo/Projects/Adventureworks/Adventureworks/bin/Debug/netcoreapp1.1/Adventureworks.dll
+/Users/Leonardo/Projects/Adventureworks/Adventureworks/bin/Debug/netcoreapp1.1/Adventureworks.pdb
+/Users/Leonardo/Projects/Adventureworks/Adventureworks/obj/Debug/netcoreapp1.1/Adventureworks.csprojAssemblyReference.cache
+/Users/Leonardo/Projects/Adventureworks/Adventureworks/obj/Debug/netcoreapp1.1/Adventureworks.csproj.CoreCompileInputs.cache
+/Users/Leonardo/Projects/Adventureworks/Adventureworks/obj/Debug/netcoreapp1.1/Adventureworks.AssemblyInfoInputs.cache
+/Users/Leonardo/Projects/Adventureworks/Adventureworks/obj/Debug/netcoreapp1.1/Adventureworks.AssemblyInfo.cs
+/Users/Leonardo/Projects/Adventureworks/Adventureworks/obj/Debug/netcoreapp1.1/Adventureworks.dll
+/Users/Leonardo/Projects/Adventureworks/Adventureworks/obj/Debug/netcoreapp1.1/Adventureworks.pdb

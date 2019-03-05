@@ -1,0 +1,11 @@
+/Users/Leonardo/Projects/Adventureworks/Infraestructure/bin/Debug/netcoreapp2.1/Infraestructure.deps.json
+/Users/Leonardo/Projects/Adventureworks/Infraestructure/bin/Debug/netcoreapp2.1/Infraestructure.runtimeconfig.json
+/Users/Leonardo/Projects/Adventureworks/Infraestructure/bin/Debug/netcoreapp2.1/Infraestructure.runtimeconfig.dev.json
+/Users/Leonardo/Projects/Adventureworks/Infraestructure/bin/Debug/netcoreapp2.1/Infraestructure.dll
+/Users/Leonardo/Projects/Adventureworks/Infraestructure/bin/Debug/netcoreapp2.1/Infraestructure.pdb
+/Users/Leonardo/Projects/Adventureworks/Infraestructure/obj/Debug/netcoreapp2.1/Infraestructure.csprojAssemblyReference.cache
+/Users/Leonardo/Projects/Adventureworks/Infraestructure/obj/Debug/netcoreapp2.1/Infraestructure.csproj.CoreCompileInputs.cache
+/Users/Leonardo/Projects/Adventureworks/Infraestructure/obj/Debug/netcoreapp2.1/Infraestructure.AssemblyInfoInputs.cache
+/Users/Leonardo/Projects/Adventureworks/Infraestructure/obj/Debug/netcoreapp2.1/Infraestructure.AssemblyInfo.cs
+/Users/Leonardo/Projects/Adventureworks/Infraestructure/obj/Debug/netcoreapp2.1/Infraestructure.dll
+/Users/Leonardo/Projects/Adventureworks/Infraestructure/obj/Debug/netcoreapp2.1/Infraestructure.pdb
